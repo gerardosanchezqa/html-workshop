@@ -1,0 +1,19 @@
+body {
+	font-family: arial;
+ 	background: url(http://i.imgur.com/z4WUADn.jpg) no-repeat right top;
+ 	background-size: 30px;
+}
+
+h1 {
+	color: #FF0064;
+	text-transform: uppercase;
+	text-decoration: underline;
+}
+
+h2 {
+	color: #0060FF;
+}
+
+li {
+	background-color: #EEEEEE;
+}
