@@ -1,52 +1,49 @@
-.parent {
-	clear: both;
-}
-
-.child {
+div{
+	background: #FFBC03;
 	float: left;
 	height: 5px;
 	padding: 10px;
 	width: 5px;
 }
 
-.yellow{
-	background-color: #FFBC03;
-}
-
 .black {
-	background-color: #000000;
+	background: #000000;
 }
 
 .brown1 {
-	background-color: #4B2500;
+	background: #4B2500;
 }
 
 .brown2 {
-	background-color: #663100;
+	background: #663100;
 }
 
 .brown3 {
-	background-color: #794923;
+	background: #794923;
 }
 
 .brown4 {
-	background-color: #986331;
+	background: #986331;
 }
 
 .cream1 {
-	background-color: #FE9867;
+	background: #FE9867;
 }
 
 .cream2 {
-	background-color: #FB894F;
+	background: #FB894F;
 }
 
 .white {
-	background-color: #F8EBD0;
+	background: #F8EBD0;
 }
 .blue {
-	background-color: #003265;
+	background: #003265;
 }
 .gray {
-	background-color: #333030;
+	background: #333030;
+}
+
+.clear {
+	clear: both;
 }

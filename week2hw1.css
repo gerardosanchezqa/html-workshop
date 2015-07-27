@@ -1,8 +1,4 @@
-.parent {
-	overflow: hidden;
-}
-
-.child {
+div {
 	float: left;
 	height: 5px;
 	padding: 10px;
@@ -10,21 +6,25 @@
 }
 
 .gray {
-	background-color: #F9F9F9;
+	background: #F9F9F9;
 }
 
 .cyan {
-	background-color: #00FFFF;
+	background: #00FFFF;
 }
 
 .magenta {
-	background-color: #FF00FF;
+	background: #FF00FF;
 }
 
 .yellow {
-	background-color: #FFFF00;
+	background: #FFFF00;
 }
 
 .black {
-	background-color: #000000;
+	background: #000000;
+}
+
+.clear {
+	clear: both;
 }
